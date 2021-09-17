@@ -5,19 +5,22 @@
  * *
  * * *
  * * * *
-* * * * *
+ * * * * *
+
 2. Right Triangle Pattern
 *
 * *
 * * *
 * * * *
 * * * * *
+
 3. Left Triangle Pattern
  *
  * *
  * * *
  * * * *
  * * * * *
+
 4. Diamond Shape Pattern
  *
  ***
@@ -28,6 +31,7 @@
  *****
  ***
  *
+
 5. Right Pascal Triangle
 *
 * *
@@ -38,6 +42,7 @@
 * * *
 * *
 *
+
 6. Sandglass Pattern
 * * * * *
  * * * *
@@ -49,6 +54,7 @@
  * * *
  * * * *
 * * * * *
+
 7. Triangle Pattern
  *
  * *
