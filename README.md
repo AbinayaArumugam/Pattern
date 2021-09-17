@@ -94,6 +94,7 @@ PATTERN PROBLEMS (USING NUMBERS)
  32123
  212
  1
+
 OTHERS
 
 1. Create a matrix with alternating rectangle of X and O.
